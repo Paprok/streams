@@ -7,7 +7,10 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
-.idea/
+who-can-into/.idea/workspace.xml
+**/.idea/
+*/.idea/
+*.iml
 
 # Generated files
 .idea/**/contentModel.xml
