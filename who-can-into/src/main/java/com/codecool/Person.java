@@ -46,4 +46,11 @@ public class Person {
         this.skills.add(skill);
     }
 
+    public boolean hasSkill(String skill){
+        return skills.contains(skill);
+    }
+
+    public String toString(){
+        return String.format("%s %s", this.name, this.phone);
+    }
 }
